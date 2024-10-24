@@ -1,0 +1,32 @@
+# Ignore CSV files
+*.csv
+
+# Ignore database files
+*.db
+
+# Ignore Jupyter Notebook files
+*.ipynb
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+.venv
+env/
+venv/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore any local configuration files
+config.ini
